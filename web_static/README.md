@@ -9,3 +9,4 @@ Write an HTML page that displays a header,footer,a filters box with dropdown and
 Write a HTML page that diplays a header, a footer , a filter box(dropdown list) and the result of the search
 Write an html page that displays a header, footer, a filters box with dropdown and results
 Improve the places section by using flexible boxes for all place articles
+Improve the page by adding responsive design to display correctly in mobile or small screens
